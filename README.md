@@ -3,7 +3,7 @@
 An interactive and responsive training platform designed to deliver structured technical courses and empower learners with in-demand industry skills.
 
 ## 🔗 Live Demo
-[Visit the Website](responsivecoursewebsite.netlify.app)
+[Visit the Website](http://responsivecoursewebsite.netlify.app)
 
 
 ## 💡 Features
