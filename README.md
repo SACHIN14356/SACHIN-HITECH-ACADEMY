@@ -3,10 +3,8 @@
 An interactive and responsive training platform designed to deliver structured technical courses and empower learners with in-demand industry skills.
 
 ## 🔗 Live Demo
-[Visit the Website](https://sachinbookhub.netlify.app)
+[Visit the Website](responsivecoursewebsite.netlify.app)
 
-## 📂 GitHub Repository
-[GitHub Repository](https://github.com/SACHIN14356/SACHIN-HITECH-ACADEMY.git)
 
 ## 💡 Features
 - 📱 **Fully Responsive Design** – Optimized layout across desktop, tablet, and mobile.
